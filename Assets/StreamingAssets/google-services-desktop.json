@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160721269425",
+    "project_id": "uncharted-reach---dev",
+    "storage_bucket": "uncharted-reach---dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160721269425:android:6c859018530d1e33e36890",
+        "android_client_info": {
+          "package_name": "com.deepsimgames.unchartedreach.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160721269425-b62j8olofcanki1hd747atqa4d6eoq77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepsimgames.unchartedreach.client",
+            "certificate_hash": "a2b342d8699c6d5c891254bfe1dcd3300ee8fc67"
+          }
+        },
+        {
+          "client_id": "160721269425-keabg4uhutna5m1dkal4thffehinsufh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3T7bF0eHsHpGUQ2GxwmB-XXAIgpb9dHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160721269425-keabg4uhutna5m1dkal4thffehinsufh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
